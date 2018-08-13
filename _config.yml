@@ -1,11 +1,11 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: Choi's blog
+description: 
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Sanghyeon Developer
+username: Choi Sanghyeon
 user_description: 
 user_title: SW Developer
 email: csh1063@gmail.com
