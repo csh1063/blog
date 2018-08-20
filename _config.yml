@@ -3,8 +3,8 @@ title:             Choi's blog
 email:             csh1063@gmail.com
 description:       
 author:            Choi
-baseurl:           "/"
-url:               "https://csh1063.github.io/blog"
+baseurl:           "/blog"
+url:               "https://csh1063.github.io"
 
 # Social Profiles
 twitter_username:  
