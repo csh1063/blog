@@ -21,7 +21,7 @@ title: Choi's blog
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: clean-blog
+theme: jekyll-theme-awesome
 # Header
 menu:
   Home: /
