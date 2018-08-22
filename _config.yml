@@ -22,10 +22,6 @@ plugins:
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-<<<<<<< HEAD
-=======
-#theme: clean-blog
->>>>>>> 85525efe183c82f1c986513e3ba5c72f5c3912de
 theme: jekyll-theme-awesome
 # Header
 menu:
