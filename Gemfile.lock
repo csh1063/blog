@@ -59,6 +59,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  jekyll
   jekyll-theme-clean-blog
 
 BUNDLED WITH
